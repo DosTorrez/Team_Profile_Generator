@@ -13,4 +13,4 @@ class intern extends employee {
     }
 }
 
-module.export = intern;
+module.export = intern
